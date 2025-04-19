@@ -6,7 +6,7 @@ About Me:
 - 🌱 I’m currently learning as much as I can
 - 👯 I’m looking to collaborate on Android, Web or Game Dev Projects
 - 🤔 I’m looking for help with almost everything since I am in a learning Phase
-- 💬 Ask me about my PRojects
+- 💬 Ask me about my Projects
 - ⚡ Fun fact: Theory knowledge does not equal Practical Knowledge
 
 Tech Stacks:
